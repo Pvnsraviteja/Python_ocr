@@ -1,0 +1,952 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {
+            "value": "\n```python\nimport string\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {
+            "value": "\n```python\nimport random\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django_heroku",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_heroku",
+        "description": "django_heroku",
+        "detail": "django_heroku",
+        "documentation": {
+            "value": "\n```python\nimport django_heroku\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {
+            "value": "\n```python\nimport hashlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {
+            "value": "\n```python\nimport pytesseract\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "datefinder",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datefinder",
+        "description": "datefinder",
+        "detail": "datefinder",
+        "documentation": {
+            "value": "\n```python\nimport datefinder\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "home",
+        "importPath": "uploader.views",
+        "description": "uploader.views",
+        "isExtraImport": true,
+        "detail": "uploader.views",
+        "documentation": {
+            "value": "\n```python\nimport uploader.views\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileForm",
+        "importPath": "uploader.forms",
+        "description": "uploader.forms",
+        "isExtraImport": true,
+        "detail": "uploader.forms",
+        "documentation": {
+            "value": "\n```python\nimport uploader.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {
+            "value": "\n```python\nfrom core.apps import CoreConfig\n```\n\n```python\n\n\n```\n\n```python\nclass CoreConfig(AppConfig):\n    name = 'core'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "random_value_generator",
+        "kind": 2,
+        "importPath": "core.utils",
+        "description": "core.utils",
+        "peekOfCode": "def random_value_generator(size=10, chars=string.ascii_uppercase+string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))",
+        "detail": "core.utils",
+        "documentation": {
+            "value": "\n```python\nfrom core.utils import random_value_generator\n```\n\n```python\n\n\n```\n\n```python\ndef random_value_generator(size=10, chars=string.ascii_uppercase+string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '+8783u17(ir=$*04-4gg)0z(9#*sk(pu^_^%+$pbr_ud#c!-@0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '+8783u17(ir=$*04-4gg)0z(9#*sk(pu^_^%+$pbr_ud#c!-@0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "SECRET_KEY = '+8783u17(ir=$*04-4gg)0z(9#*sk(pu^_^%+$pbr_ud#c!-@0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = '+8783u17(ir=$*04-4gg)0z(9#*sk(pu^_^%+$pbr_ud#c!-@0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = ['127.0.0.1' ]\n# Application definition\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEFAULT_APPS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "DEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nTHIRD_PARTY_APPS = [\n    'widget_tweaks',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import DEFAULT_APPS\n```\n\n```python\n\n\n```\n\n```python\nDEFAULT_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nTHIRD_PARTY_APPS = [\n    'widget_tweaks',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "THIRD_PARTY_APPS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "THIRD_PARTY_APPS = [\n    'widget_tweaks',\n]\nCUSTOM_APPS = [\n    'core',\n    'uploader',\n]\nINSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import THIRD_PARTY_APPS\n```\n\n```python\n\n\n```\n\n```python\nTHIRD_PARTY_APPS = [\n    'widget_tweaks',\n]\nCUSTOM_APPS = [\n    'core',\n    'uploader',\n]\nINSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CUSTOM_APPS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "CUSTOM_APPS = [\n    'core',\n    'uploader',\n]\nINSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import CUSTOM_APPS\n```\n\n```python\n\n\n```\n\n```python\nCUSTOM_APPS = [\n    'core',\n    'uploader',\n]\nINSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "INSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = DEFAULT_APPS + THIRD_PARTY_APPS + CUSTOM_APPS\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'OCR_web.urls'",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'OCR_web.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "ROOT_URLCONF = 'OCR_web.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [(os.path.join(BASE_DIR, 'templates')), ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'OCR_web.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [(os.path.join(BASE_DIR, 'templates')), ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [(os.path.join(BASE_DIR, 'templates')), ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [(os.path.join(BASE_DIR, 'templates')), ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'OCR_web.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nCIRCLE_CI_ENVIRONMENT = os.environ.get('CIRCLE_CI_ENVIRONMENT', False)\nif CIRCLE_CI_ENVIRONMENT:\n    DATABASES = {\n        'default': {\n            'ENGINE': 'django.db.backends.postgresql',\n            'NAME': 'circle_test',\n            'HOST': '127.0.0.1',",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'OCR_web.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\nCIRCLE_CI_ENVIRONMENT = os.environ.get('CIRCLE_CI_ENVIRONMENT', False)\nif CIRCLE_CI_ENVIRONMENT:\n    DATABASES = {\n        'default': {\n            'ENGINE': 'django.db.backends.postgresql',\n            'NAME': 'circle_test',\n            'HOST': '127.0.0.1',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CIRCLE_CI_ENVIRONMENT",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "CIRCLE_CI_ENVIRONMENT = os.environ.get('CIRCLE_CI_ENVIRONMENT', False)\nif CIRCLE_CI_ENVIRONMENT:\n    DATABASES = {\n        'default': {\n            'ENGINE': 'django.db.backends.postgresql',\n            'NAME': 'circle_test',\n            'HOST': '127.0.0.1',\n            'PORT': '5432',\n            'USERNAME': 'circleci',\n            'PASSWORD': ''",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import CIRCLE_CI_ENVIRONMENT\n```\n\n```python\n\n\n```\n\n```python\nCIRCLE_CI_ENVIRONMENT = os.environ.get('CIRCLE_CI_ENVIRONMENT', False)\nif CIRCLE_CI_ENVIRONMENT:\n    DATABASES = {\n        'default': {\n            'ENGINE': 'django.db.backends.postgresql',\n            'NAME': 'circle_test',\n            'HOST': '127.0.0.1',\n            'PORT': '5432',\n            'USERNAME': 'circleci',\n            'PASSWORD': ''\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static\"),\n]\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import STATIC_ROOT\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static')\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "OCR_web.settings",
+        "description": "OCR_web.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())",
+        "detail": "OCR_web.settings",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Activate Django-Heroku.\ndjango_heroku.settings(locals())\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "OCR_web.urls",
+        "description": "OCR_web.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"uploader.urls\")),\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "OCR_web.urls",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"uploader.urls\")),\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "OCR_web.wsgi",
+        "description": "OCR_web.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "OCR_web.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom OCR_web.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "uploader.migrations.0001_initial",
+        "description": "uploader.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ImageFile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100, verbose_name='Name')),",
+        "detail": "uploader.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ImageFile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100, verbose_name='Name')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "uploader.migrations.0002_auto_20190218_0016",
+        "description": "uploader.migrations.0002_auto_20190218_0016",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='imagefile',\n            name='internal_reference',\n            field=models.CharField(editable=False, max_length=100, verbose_name='Internal Reference'),\n        ),",
+        "detail": "uploader.migrations.0002_auto_20190218_0016",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.migrations.0002_auto_20190218_0016 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='imagefile',\n            name='internal_reference',\n            field=models.CharField(editable=False, max_length=100, verbose_name='Internal Reference'),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "uploader.migrations.0003_ocrtext",
+        "description": "uploader.migrations.0003_ocrtext",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0002_auto_20190218_0016'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='OCRText',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('text', models.TextField(blank=True, verbose_name='OCR text')),",
+        "detail": "uploader.migrations.0003_ocrtext",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.migrations.0003_ocrtext import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0002_auto_20190218_0016'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='OCRText',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('text', models.TextField(blank=True, verbose_name='OCR text')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "uploader.migrations.0004_ocrtext_execution_time",
+        "description": "uploader.migrations.0004_ocrtext_execution_time",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0003_ocrtext'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='ocrtext',\n            name='execution_time',\n            field=models.IntegerField(editable=False, null=True, verbose_name='Execution Time'),\n        ),",
+        "detail": "uploader.migrations.0004_ocrtext_execution_time",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.migrations.0004_ocrtext_execution_time import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('uploader', '0003_ocrtext'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='ocrtext',\n            name='execution_time',\n            field=models.IntegerField(editable=False, null=True, verbose_name='Execution Time'),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UploaderConfig",
+        "kind": 6,
+        "importPath": "uploader.apps",
+        "description": "uploader.apps",
+        "peekOfCode": "class UploaderConfig(AppConfig):\n    name = 'uploader'",
+        "detail": "uploader.apps",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.apps import UploaderConfig\n```\n\n```python\n\n\n```\n\n```python\nclass UploaderConfig(AppConfig):\n    name = 'uploader'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileForm",
+        "kind": 6,
+        "importPath": "uploader.forms",
+        "description": "uploader.forms",
+        "peekOfCode": "class ImageFileForm(forms.ModelForm):\n    class Meta:\n        model = ImageFile\n        fields = ('image', )",
+        "detail": "uploader.forms",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.forms import ImageFileForm\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileForm(forms.ModelForm):\n    class Meta:\n        model = ImageFile\n        fields = ('image', )\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.models import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.models import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.models import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "uploader.urls",
+        "description": "uploader.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', home, name='home'),\n]",
+        "detail": "uploader.urls",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('', home, name='home'),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "uploader.views",
+        "description": "uploader.views",
+        "peekOfCode": "def home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list",
+        "detail": "uploader.views",
+        "documentation": {
+            "value": "\n```python\nfrom uploader.views import home\n```\n\n```python\n\n\n```\n\n```python\ndef home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
