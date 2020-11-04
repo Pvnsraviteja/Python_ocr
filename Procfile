@@ -1,0 +1,1 @@
+web: gunicorn OCR_web.wsgi
