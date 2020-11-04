@@ -37,14 +37,16 @@ class ImageFile(models.Model):
         for match in matches:
             if not date_text:
                 date_text = ''
-            date_text += str(match)
+                date_text += str(match)
         execution_time = time.time() - start_time
+        if not date_text:
+            date_text = ''
         ocr_txt = OCRText(image = self, text = txt,lang = date_text, execution_time = execution_time)
         ocr_txt.save()
 
         print("The image {0} was opened.".format(self.image))
         print('OCR: \n{0}\n'.format(txt))
-        print('OCR_Date: \n{0}\n'.format(match))
+        print('OCR_Date: \n{0}\n'.format(date_text))
         print('Execution Time: {0}'.format(ocr_txt.execution_time))
 
         return ocr_txt
@@ -75,7 +77,7 @@ class ImageFile(models.Model):
 
 class OCRText(models.Model):
     text = models.TextField("OCR text", blank=True)
-    lang = models.TextField("Language", default="EN")
+    lang = models.TextField("Language", default="EN", null=True)
     execution_time = models.IntegerField("Execution Time", editable=False, null=True);
     image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)
     create_at = models.DateTimeField("Create at", auto_now_add=True)
